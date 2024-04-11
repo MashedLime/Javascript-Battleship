@@ -1,5 +1,6 @@
 # Javascript-Battleship
-//Just a short game to play on a javascript console.
+Just a short game to play on a javascript console.
+Go to the code section for the proper javascript code.
 
 let ship1 = Math.floor(Math.random()* 100)+ 2
 let ship2 = ship1 - 1
